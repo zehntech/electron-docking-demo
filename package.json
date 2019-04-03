@@ -1,0 +1,25 @@
+{
+  "name": "electron-docking-demo",
+  "version": "1.0.0",
+  "description": "A minimal Electron application to show docking and undocking",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ZTAP0011/electron-docking-demo.git",
+  "keywords": [
+    "Electron",
+    "Electron Docking",
+    "Elecctron Undocking",
+    "Nodejs"
+  ],
+  "author": "Zehntech Technologies",
+  "license": "BSD",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-packager": "^12.0.2"
+  },
+  "dependencies": {
+    "electron-dockable": "^0.9.5"
+  }
+}
